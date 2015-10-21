@@ -1,0 +1,13 @@
+¿Que es RVM?
+
+Se trata de una herramienta para ruby que permite manejar distintas versiones del interprete de ruby junto con las 'gems' instaladas a cada version.
+Es decir permite tener diferentes entornos de ruby.
+
+¿Cuales son las diferencias entre la ejecucion del programa "Hola mundo" con el interprete de Ruby y el nterprete interactivo del ejercicio anterior?
+El resultado mostrado por pantalla varia de ejecutar en el interprete con "ruby" solo muestra "Hello world" en cambio con "irb" 
+te muestra la como si las lineas del fichero hubiesen sido escritas en el interprete.
+
+¿Cuales son las diferencias entre la ejecucion del programa "Hola mundo" con el interprete interactivo y con el PRY?
+El interprete PRY permite mayor maniobrabilidad a la hora de cargar un fichero y hasta cierto punto
+para luego ejecutar las instrucciones interactivas con el fichero cargado. Ademas el pry, ofrece
+una interfaz mas amigable que irb.
